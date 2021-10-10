@@ -1,0 +1,12 @@
+body {
+  background-color: beige;
+  position:absolute;
+  display:block;
+  text-align: center;
+  height:100px;
+  width:100px;
+  left:50%;
+  top:50%;
+  margin-top:-50px;
+  margin-left:-50px;
+}
